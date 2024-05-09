@@ -1,5 +1,23 @@
 [
   {
+    "name": "Portfolio",
+    "url": "https://daniellaw.me",
+    "icon": "https://icons.duckduckgo.com/ip3/daniellaw.me.ico",
+    "slug": "portfolio",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Frugality",
     "url": "https://frugality.app",
     "icon": "https://icons.duckduckgo.com/ip3/frugality.app.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 424,
-    "timeWeek": 424,
-    "timeMonth": 424,
-    "timeYear": 424,
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   }
 ]
