@@ -2,6 +2,8 @@ owner: daniel-law
 repo: future-lab-status
 
 sites:
+  - name: Portfolio
+    url: https://daniellaw.me
   - name: Frugality
     url: https://frugality.app
 
