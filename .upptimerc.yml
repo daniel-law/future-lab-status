@@ -20,4 +20,4 @@ status-website:
     - rel: stylesheet
       href: https://daniel-law.github.io/future-lab-status/custom-styles.css
 i18n:
-  footer: &nbsp;
+  footer: Future Lab Monitoring Service.
