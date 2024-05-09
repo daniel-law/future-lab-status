@@ -22,8 +22,3 @@ status-website:
 i18n:
   footer: Future Lab monitoring service.
   liveStatus: Status by Service
-  duration24H: Day
-  duration7D: Week
-  duration30D: Month
-  duration1Y: Year
-  durationAll: All-time
