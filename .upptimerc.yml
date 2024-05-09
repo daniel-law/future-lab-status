@@ -15,3 +15,5 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Future Lab
   introTitle: "**System Status**"
+i18n:
+  footer: © Future Lab. All rights reserved.
