@@ -12,6 +12,7 @@ assignees:
   - daniel-law
 status-website:
   logoUrl: https://future-lab.uk/future-lab-icon.png
+  favicon: https://future-lab.uk/favicon.ico
   cname: future-lab.uk
   name: Future Lab
   introTitle: "**Future Lab**"
