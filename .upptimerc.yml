@@ -20,4 +20,4 @@ status-website:
     - rel: stylesheet
       href: https://daniel-law.github.io/future-lab-status/custom-styles.css
 i18n:
-  footer: © Future Lab. All rights reserved.
+  footer: &nbsp;
