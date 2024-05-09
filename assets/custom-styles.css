@@ -9,3 +9,23 @@ body {
     background-color: rgb(24 24 27 / 0.5);
     height: 100vh;
 }
+
+/* Monitor title section */
+section:has(dl) {
+    background-color: rgb(24 24 27 / .8);
+    padding: 20px; 
+    border: 1px solid rgb(212 212 216 / 0.2);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem; 
+    border-bottom: none;
+}
+
+/* Monitor graph section */
+section:has(iframe) {
+    background-color: rgb(24 24 27 / .8);
+    padding: 20px;
+    border: 1px solid rgb(212 212 216 / 0.2);
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-top: none;
+}
