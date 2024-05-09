@@ -14,7 +14,7 @@ status-website:
   baseUrl: /future-lab-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Future Lab
-  introTitle: "**System Status**"
+  introTitle: "**Lab Status**"
   themeUrl: https://daniel-law.github.io/future-lab-status/lab.css
 i18n:
   footer: © Future Lab. All rights reserved.
