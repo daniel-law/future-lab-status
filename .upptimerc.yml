@@ -16,8 +16,8 @@ status-website:
   name: Future Lab
   introTitle: "**Lab Status**"
   themeUrl: https://daniel-law.github.io/future-lab-status/lab.css
-links:
-  - rel: stylesheet
-    href: https://daniel-law.github.io/future-lab-status/custom-styles.css
+  links:
+    - rel: stylesheet
+      href: https://daniel-law.github.io/future-lab-status/custom-styles.css
 i18n:
   footer: © Future Lab. All rights reserved.
