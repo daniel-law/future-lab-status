@@ -8,16 +8,10 @@ sites:
     url: https://frugality.app
   - name: Kurisu
     url: https://kurisu.future-lab.uk
+assignees:
+  - daniel-law
 status-website:
   baseUrl: /future-lab-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Future Lab
   introTitle: "**System Status**"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
