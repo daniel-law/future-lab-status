@@ -12,7 +12,7 @@ assignees:
   - daniel-law
 status-website:
   baseUrl: /future-lab-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://daniel-law.github.io/future-lab-status/future-lab-icon.png
   name: Future Lab
   introTitle: "**Future Lab**"
   themeUrl: https://daniel-law.github.io/future-lab-status/lab.css
