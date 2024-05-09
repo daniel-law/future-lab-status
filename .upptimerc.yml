@@ -21,3 +21,4 @@ status-website:
       href: https://daniel-law.github.io/future-lab-status/custom-styles.css
 i18n:
   footer: Future Lab monitoring service.
+  liveStatus: Status by Service
