@@ -11,14 +11,14 @@ sites:
 assignees:
   - daniel-law
 status-website:
-  baseUrl: /future-lab-status
-  logoUrl: https://daniel-law.github.io/future-lab-status/future-lab-icon.png
+  logoUrl: https://future-lab.uk/future-lab-icon.png
+  cname: future-lab.uk
   name: Future Lab
   introTitle: "**Future Lab**"
-  themeUrl: https://daniel-law.github.io/future-lab-status/lab.css
+  themeUrl: https://future-lab.uk/lab.css
   links:
     - rel: stylesheet
-      href: https://daniel-law.github.io/future-lab-status/custom-styles.css
+      href: https://future-lab.uk/custom-styles.css
 i18n:
   footer: Future Lab monitoring service.
   liveStatus: Status by Service
