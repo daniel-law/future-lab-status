@@ -22,17 +22,19 @@
     "url": "https://frugality.app",
     "icon": "https://icons.duckduckgo.com/ip3/frugality.app.ico",
     "slug": "frugality",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 400,
     "timeDay": 400,
     "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   }
 ]
